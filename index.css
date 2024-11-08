@@ -1,0 +1,183 @@
+body{
+    background-color: rgb(253, 249, 249);
+}
+#div1{
+    display: flex;
+}
+#div11{
+    margin-left: 70px;
+}
+#div12{
+    margin-left: 600px;
+    margin-top: 20px;
+}
+#div12 a{
+    text-decoration: none;
+    color: rgb(76, 162, 247);
+    font-size: 25px;
+    text-align: center;
+    padding: 15px;
+    display: block;
+}
+#div12 ul{
+    list-style-type: none;
+    
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+#div12 li{
+    float: left;
+}
+#divlast{
+    display: flex;
+    background-color: beige;
+    padding: 50px;
+}
+#divlast1{
+    margin-left: 300px;
+    margin-right: 100px;
+    margin-top: 10px;
+    color: black;
+    font-size: 20px;
+}
+#divlast1 a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+#divlast2{
+    margin-left: 100px;
+    margin-right: 100px;
+    color: black;
+    font-size: 20px;
+}
+#divlast2 a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+#divlast3{
+    margin-left: 100px;
+}
+#div31{
+    margin-top: 10px;
+    margin-left: 300px;
+}
+#div32{
+    margin-left: 80px;
+    margin-top: 20px;
+}
+#div32 a{
+    text-decoration: none;
+    color: rgb(76, 162, 247);
+    font-size: 25px;
+    text-align: center;
+    padding: 20px;
+    display: block;
+}
+#div32 ul{
+    list-style-type: none;
+    
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+#div32 li{
+    float: left;
+}
+nav a:hover,
+nav a:active{
+    color: green;
+}
+#div41{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+#div41 h1{
+    color: green;
+}
+#div42{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+#div42 h1{
+    color: green;
+}
+#div43{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+#div43 h1{
+    color: green;
+}
+#div44{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+#div44 h1{
+    color: green;
+}
+#div45{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+#div45 h1{
+    color: green;
+}
+#div46{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+#div46 h1{
+    color: green;
+}
+#div47{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+#div47 h1{
+    color: green;
+}
